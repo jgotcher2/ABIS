@@ -6,8 +6,8 @@ The FIRST PART was the "Multiple Choice Grading Aassignment.
   I did my best with Visual Studio to make the Display Box. I assumed Window frames was the way to go.
   I was able to recreate the Grading Program Box witht he answer key and the student name/grades. 
   
-  SEE: github.com/jgotcher2/ABIS/blob/master/Program.cs         (The grading code)
-  SEE: github.com/jgotcher2/ABIS/blob/master/ListBox.png       (Screenshot of the Message Frame)
+  SEE: https://github.com/jgotcher2/ABIS/blob/master/Program.cs         (The grading code)
+  SEE: https://github.com/jgotcher2/ABIS/blob/master/ListBox.png       (Screenshot of the Message Frame)
   
   Note that the code calculating the averages and letter grades and the frame are not connected.
   I simply don't know yet how to connect the two in visual studio.
@@ -18,10 +18,15 @@ I did make a bootstrap page.
   SEE: https://github.com/jgotcher2/ABIS/blob/master/websitepic.png     (Screenshot of the localhost webpage)
   
 Google Maps API
-I got my Google API key: AIzaSyCCUlKj2_IRMogh803DQ6fhtSAHTFVkm4Q
+I got my Google API key: AIzaSyCCUlKj2_IRMogh803DQ6fhtXXXXXXXXXX (Just got an email from Google saying to hide this. Rookie mistake.)
 
 I found the documentation from Google Developers website to run a "GoogleMap Control" through Visual Studio.
   But honestly, I don't know whow it all connects. But I uploaded what I was going to use anyways.
+  
+  SEE:
+  SEE:
+  
+  
 
 
   
